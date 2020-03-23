@@ -92,14 +92,14 @@
                         <br>
                       </div>
                     </div>
+                    <!--Section description-->
+                    <p class="text-center grey-text mb-2 mx-auto w-responsive">Lorem ipsum dolor sit amet, consectetur
+                    adipisicing elit. Fugit, error amet numquam iure provident voluptate
+                    esse quasi, veritatis totam voluptas nostrum quisquam eum porro a pariatur accusamus veniam.</p>
                     <!-- Formulario para registracion -->
                     <div class="col-md-12">
                       <form id="Registracion" class="" action="ConsultaRegistracion.php" method="post">
                         <div class="row">
-                          <!--Section description-->
-                          <p class="text-center grey-text mb-5 mx-auto w-responsive">Lorem ipsum dolor sit amet, consectetur
-                          adipisicing elit. Fugit, error amet numquam iure provident voluptate
-                          esse quasi, veritatis totam voluptas nostrum quisquam eum porro a pariatur accusamus veniam.</p>
                           <!--Grid column-->
                           <div class="col-md-6">
                             <div class="md-form">
@@ -151,8 +151,8 @@
                         </div>
                         <!-- Cuarta Columna Login -->
                         <div class="col-md-12">
-                          <div class="md-form form-group">
-                            <button type="submit"  class="btn btn-primary btn-lg">Login</button>
+                          <div class="md-form form-group text-center">
+                            <button type="submit"  class="btn btn-indigo btn-rounded mt-5">Log In</button>
                           </div>
                         </div>
                       </form>

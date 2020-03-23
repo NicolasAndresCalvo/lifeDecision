@@ -14,7 +14,7 @@
         <div class="rd-navbar-container">
           <div class="rd-navbar-logo">
             <a href="/">
-              <img class="logo-small" src="/images/LogoLife.png"/>
+              <!--  <img class="logo-small" src="/images/LogoLife.png"/> -->
               <img class="logo-default" src="/images/LogoLife.png"/>
             </a>
           </div>
