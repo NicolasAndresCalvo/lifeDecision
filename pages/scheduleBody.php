@@ -1,4 +1,5 @@
 <div style="margin-top: 10px">
+   <!-- Titulo de la Pagina -->
   <div class="row">
     <div class="col-md-1"></div>
     <div class="col-md-10">
@@ -6,6 +7,7 @@
     </div>
     <div class="col-md-1"></div>
   </div>
+   <!-- Texto Descriptivo de la Pagina -->
   <div class="row">
     <div class="col-md-1"></div>
     <div class="col-md-10 text-justify">
@@ -14,8 +16,10 @@
     </div>
     <div class="col-md-1"></div>
   </div>
+   <!-- Calendar -->
   <div class="row">
     <div class="col-md-1"></div>
-    <?php include(getRootPathFile('calendar/calendar.php')); ?>
+    <!--<?php include(getRootPathFile('calendar/calendar.php')); ?>-->
+    <div id="calendar"></div>
   </div>
 </div>
