@@ -136,7 +136,7 @@
                       </form>
                       <div class="col-md-12">
                           <div class="md-form form-group text-center">
-                            <button type="submit"  class="btn btn-indigo btn-rounded mt-5">Log In</button>
+                            <button type="submit"  class="btn btn-indigo btn-rounded mt-5">Enviar</button>
                           </div>
                       </div>
                     </div>

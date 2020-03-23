@@ -29,7 +29,7 @@
       <div class="row row-30">
         <div class="col-sm-1 col-lg-1"></div>
         <div class="col-sm-5 col-lg-5">
-          <a class="thumbnail thumbnail-secondary" href="#" style="background-image: url(/images/ministerios/evangelismo/Evangelismo_Foto1.jpg)">
+          <a class="thumbnail thumbnail-secondary" href="/ministerios/evangelismo.php" style="background-image: url(/images/ministerios/evangelismo/Evangelismo_Foto1.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Evangelismo</h3>
               <div class="thumbnail-inner">
@@ -66,7 +66,7 @@
           </a>
         </div>
         <div class="col-sm-5 col-lg-5">
-          <a class="thumbnail thumbnail-primary" href="#" style="background-image: url(/images/ministerios/ninosLife/NiñosLife_Foto2.jpg)">
+          <a class="thumbnail thumbnail-primary" href="ministerios/ninioslife.php" style="background-image: url(/images/ministerios/ninosLife/NiñosLife_Foto2.jpg)">
             <div class="thumbnail-caption">
               <h3 class="thumbnail-heading">Niños Life</h3>
               <div class="thumbnail-inner">
