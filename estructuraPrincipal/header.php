@@ -22,6 +22,7 @@
               <li class="rd-nav-item"><a class="rd-nav-link" href="/about.php">¿Qui&eacute;nes somos?</a></li>
               <li class="rd-nav-item"><a class="rd-nav-link" href="/schedule.php">Agenda</a></li>
               <li class="rd-nav-item"><a class="rd-nav-link" href="/lifeFriends.php">Amigos Life</a></li>
+              <li class="rd-nav-item"><a class="rd-nav-link" href="/registration.php">Registracion</a></li>
               <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="#">Donaciones</a></li> -->
             </ul>
             <!-- <div class="rd-navbar-icons"> 
