@@ -68,7 +68,7 @@
   </head>
   <section>
       <div id="map-container-demo-section" class="z-depth-1-half map-container-section mb-4" style="height: 500px">
-        <iframe src="https://maps.google.com/maps?q=Manhatan&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" style="border:0"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6695.235064066537!2d-60.6299239841413!3d-32.96110586712951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b7aaff95f89f2f%3A0xd9bdd33ed71e123e!2sNecochea%201675%2C%20S2000BWI%20Rosario%2C%20Santa%20Fe!5e0!3m2!1sen!2sar!4v1585001713888!5m2!1sen!2sar" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
       </div>
     </section>
   <main>
@@ -146,11 +146,11 @@
                       <ul class="contact-icons text-center list-unstyled">
                         <li>
                           <i class="fas fa-map-marker fa-2x indigo-text"></i>
-                          <p>San Francisco, CA 94126, USA</p>
+                          <p>Necochea 1675, Rosario, Argentina</p>
                         </li>
                         <li>
                           <i class="fas fa-phone fa-2x indigo-text"></i>
-                          <p>+ 01 234 567 89</p>
+                          <p>+ 54 9 341 720 3407</p>  
                         </li>
                         <li>
                           <i class="fas fa-envelope fa-2x indigo-text"></i>

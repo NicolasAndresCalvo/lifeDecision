@@ -121,7 +121,7 @@
   <!-- Social buttons -->
   <ul class="list-unstyled list-inline text-center">
     <li class="list-inline-item">
-      <a class="btn-floating btn-fb mx-1">
+      <a href="https://www.facebook.com/Life.Decision.Ministry/" class="btn-floating btn-fb mx-1">
         <i class="fab fa-facebook-f"> </i>
       </a>
     </li>
@@ -141,8 +141,8 @@
       </a>
     </li>
     <li class="list-inline-item">
-      <a class="btn-floating btn-dribbble mx-1">
-        <i class="fab fa-dribbble"> </i>
+      <a href="https://www.instagram.com/life.decision/" class="btn-floating btn-ins mx-1">
+        <i class="fab fa-instagram"> </i>
       </a>
     </li>
   </ul>
