@@ -11,10 +11,8 @@
       <div class="col-md-4 mx-auto">
 
         <!-- Content -->
-        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Footer Content</h5>
-        <p>Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet,
-          consectetur
-          adipisicing elit.</p>
+        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">LIFE DECISION</h5>
+        <p>Es una voz profética en medio de esta generación, la cual los hará volver a las Sendas Antiguas, a la búsqueda de Su Presencia, al Ayuno, al Clamor e Intercesión, a Conocer y Creer en Su Palabra, y así dejar al Espíritu Santo que obre como Él quiera”.</p>
 
       </div>
       <!-- Grid column -->
@@ -55,13 +53,13 @@
 
         <ul class="list-unstyled">
           <li>
-            <a href="#!">Link 1</a>
+            <a href="#!">Pedido de Oracion</a>
           </li>
           <li>
-            <a href="#!">Link 2</a>
+            <a href="#!">Contacto</a>
           </li>
           <li>
-            <a href="#!">Link 3</a>
+            <a href="#!">Como Llegar</a>
           </li>
           <li>
             <a href="#!">Link 4</a>
@@ -77,20 +75,20 @@
       <div class="col-md-2 mx-auto">
 
         <!-- Links -->
-        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Links</h5>
+        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Ministerios</h5>
 
         <ul class="list-unstyled">
           <li>
-            <a href="#!">Link 1</a>
+            <a href="#!">Evangelismo</a>
           </li>
           <li>
-            <a href="#!">Link 2</a>
+            <a href="#!">Manos de Vida</a>
           </li>
           <li>
-            <a href="#!">Link 3</a>
+            <a href="#!">Hope</a>
           </li>
           <li>
-            <a href="#!">Link 4</a>
+            <a href="#!">Niños Life</a>
           </li>
         </ul>
 
@@ -125,6 +123,7 @@
         <i class="fab fa-facebook-f"> </i>
       </a>
     </li>
+     <!--
     <li class="list-inline-item">
       <a class="btn-floating btn-tw mx-1">
         <i class="fab fa-twitter"> </i>
@@ -140,6 +139,7 @@
         <i class="fab fa-linkedin-in"> </i>
       </a>
     </li>
+    -->
     <li class="list-inline-item">
       <a href="https://www.instagram.com/life.decision/" class="btn-floating btn-ins mx-1">
         <i class="fab fa-instagram"> </i>
