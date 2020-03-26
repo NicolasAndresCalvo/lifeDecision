@@ -1,3 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>LifeDecision</title>     
+     <!-- SCRIPTS -->
+      <!-- JQuery -->
+      <script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
+      <!-- Bootstrap tooltips -->
+      <script type="text/javascript" src="js/tether.min.js"></script>
+      <!-- Bootstrap core JavaScript -->
+      <script type="text/javascript" src="js/bootstrap.min.js"></script>
+      <!-- MDB core JavaScript -->
+      <script type="text/javascript" src="js/mdb.min.js"></script>
+      <!-- Referencias de Estilos css -->
+      <link href="css\style.css" rel="stylesheet">
+      <link href="..\css\stylemdb.css" rel="stylesheet">
+      <!-- Font Awesome -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+      <!-- Font Awesome -->
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+      <!-- Bootstrap core CSS -->
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+      <!-- Material Design Bootstrap -->
+      <link href="css/mdb.min.css" rel="stylesheet">
+      <!-- Referencias de Estilos css -->
+      <!-- Referencias de Estilos css -->
+      <link href="css\style.css" rel="stylesheet">
+      <link href='https://fonts.googleapis.com/css?family=Open+Sans:600italic' rel='stylesheet' type='text/css'>    
+      <script type="text/javascript" src="js/jquery.js"></script>
+      <script type="text/javascript" src="js/Funcion.js"></script>
+  </head>
 <div id="body">
   <!-- Noticias -->
   <section class="parallax-container" data-parallax-img="/images/slides/slide1.jpg">
@@ -16,7 +48,7 @@
           </div>
           <div class="col-sm-4">
             <a class="cta-box cta-box-primary" href="/contacts.php">
-              <h1 class="cta-box-heading" style="margin-top: 30px;">Contacto</h1>
+              <h1 class="h1-responsive" style="margin-top: 30px;">Contacto</h1>
             </a>
           </div>
         </div>
@@ -96,6 +128,15 @@
       </div>
     </div>
   </section>
+
+
+  <div class="fixed-action-btn smooth-scroll" style="bottom: 42px; right: -16px;">
+  <a href="#top-section" class="btn-floating btn-large light-blue darken-4 ">
+    <i class="fas fa-arrow-up"></i>
+  </a>
+</div>
+
+
   <div class="container">
     <div class="row">
       <div class="col-lg-4"></div>
@@ -118,3 +159,17 @@
     </div>
   </section>
 </div>
+    <!--  SCRIPTS  -->
+    <!-- JQuery -->
+    <script type="text/javascript" src="../js/jquery.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="../js/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="../js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="../js/mdb.min.js"></script>
+    <script>
+      new WOW().init();
+    </script>
+
+</html>

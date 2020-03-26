@@ -91,7 +91,9 @@
                   <div class="row pt-5">
                     <!--Grid column-->
                     <div class="col-md-8 col-xl-9">
-                      <form>
+
+
+                      <form id="contact-email" class="" action="pages/sendemail.php" method="post">
                         <!--Grid row-->
                         <div class="row">
                           <!--Grid column-->
@@ -116,7 +118,7 @@
                         <div class="row">
                           <div class="col-md-12">
                             <div class="md-form">
-                              <input type="text" id="contact-Subject" class="form-control">
+                              <input name="asunto" type="text" id="contact-Subject" class="form-control">
                               <label for="contact-Subject" class="">Asunto</label>
                             </div>
                           </div>
@@ -127,18 +129,20 @@
                           <!--Grid column-->
                           <div class="col-md-12">
                             <div class="md-form">
-                              <textarea type="text" id="contact-message" class="md-textarea form-control" rows="3"></textarea>
+                              <textarea name="mensaje" type="text" id="contact-message" class="md-textarea form-control" rows="3"></textarea>
                               <label for="contact-message">Mensaje</label>
                             </div>
                           </div>
                         </div>
                         <!--Grid row-->
-                      </form>
-                      <div class="col-md-12">
+                        <div class="col-md-12">
                           <div class="md-form form-group text-center">
                             <button type="submit"  class="btn btn-indigo btn-rounded mt-5">Enviar</button>
                           </div>
-                      </div>
+                        </div>
+                      </form>
+
+
                     </div>
                     <!--Grid column-->
                     <!--Grid column-->
