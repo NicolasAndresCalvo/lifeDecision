@@ -1,7 +1,7 @@
 <?php
 include($_SERVER['DOCUMENT_ROOT'].'/configuration/util.php');
 
-$title = '¿Quienes somos?';
-$page_content = 'pages/aboutBody.php';
+$title = 'Agenda';
+$page_content = 'pages/scheduleBody.php';
 include(getRootPathFile('estructuraPrincipal/master.php'));
 ?>
